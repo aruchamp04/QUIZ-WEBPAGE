@@ -1,0 +1,64 @@
+body{
+    background-color:black;
+    color:whitesmoke;
+    overflow: hidden;
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.rules-container{
+    width:50vh;
+    height:45vh;
+    border:5px solid lightgreen;
+    box-shadow: 4px 4px 15px 15px lightgreen;
+    margin:13% auto;
+    padding:0 1%;
+}
+h2{
+    margin:3% 0;
+    font-size:1.4rem;
+}
+.rules{
+    text-align: center;
+}
+li{
+    padding: 2px;
+    margin-left:3%;
+}
+.second-div{
+    text-align: start;
+}
+footer{
+    text-align: center;
+}
+.button{
+    text-decoration: none;
+    border:1px solid yellow;
+    border-radius:6%;
+    font-size:1.3rem;
+    color:lightcoral;
+    box-shadow:1px 1px 5px 3px whitesmoke;
+    
+
+}
+p{
+    padding: 1.8%;
+}
+footer{
+    margin-top:5%;
+    
+}
+.button:hover{
+    box-shadow:1px 1px 6px 4px whitesmoke;
+    border: none;
+    
+}
+.footer1{
+    position: absolute;
+    left: 70%;
+}
+
